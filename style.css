@@ -1,7 +1,7 @@
 body {
     background-position-x: right;
     background-image: url(./assets/background.png);
-    background-size:  1161px;
+    background-size: 1161px;
     background-repeat: no-repeat;
     font-family: 'Roboto', sans-serif;
     margin: 0;
@@ -41,7 +41,7 @@ body {
 .content {
     margin-top: 250px;
     margin-left: 87.12px;
-    width: 36.5%;
+    width: 38%;
 }
 
 .botao {
@@ -102,7 +102,7 @@ body {
     color: var(--Colour-Main-Blue-900, #091133);
     font-feature-settings: 'clig' off, 'liga' off;
     font-family: 'Roboto', sans-serif;
-    font-size: 24px;
+    font-size: 30px;
     font-style: normal;
     font-weight: 500;
     line-height: 66px;
@@ -144,23 +144,46 @@ footer {
     row-gap: 40px;
     align-items: center;
     padding-bottom: 42px;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
 }
 
 .linha2 {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    gap: 500px;
-    margin: 20px 0 32px;
+    justify-content: space-around;
+    align-items: start;
+    margin: 0 0 32px;
+    border-top: 1px solid #fff;
+    padding-top: 20px;
+    gap: 665px;
 
+}
+
+.red3 {
+    width: 189.131px;
+    height: 36px;
+    flex-shrink: 0;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 2px;
+    background: #D04A3B;;
+    border: #D04A3B;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 18px;
 }
 
 .menufooter {
     display: flex;
     gap: 60px;
-}
-
-hr {
-    background-color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
 }
