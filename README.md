@@ -1,4 +1,4 @@
-### Landing Page FigmaXhtml
+### Landing Page FigmaXhtmlcss
 
 Vocês fazem parte de um time de desenvolvimento, e estão trabalhando em um projeto e devem realizar a entrega de um website (Landingpage) para um determinado cliente. A primeira entrega não saiu como o planejado e o time de UX/UI criou um Figma, para auxiliar o desenvolvimento e realizar uma entrega de maior qualidade para o cliente.
 
